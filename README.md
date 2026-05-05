@@ -23,7 +23,7 @@ Right now, I’m especially interested in **AI systems, PyTorch, language models
 
 Basically: I like learning by building, breaking stuff, fixing it, and then improving it until it becomes actually useful.
 
-> Current motto: **learn, build, improve, fix AI slop, make something great.**
+> Current motto: **Learn. Build. Improve. Fix AI slop. Make something great!**
 
 ## 👀 Profile Views
 <p align="center">
@@ -97,6 +97,12 @@ Good for testing how different strategies behave against each other over time.
 - Prepare for college-level CS, AI, and research opportunities
 - Get better at writing code that other people can actually understand
 
+## 📜 Favorite Quote
+
+> “Be nice, be provocable, be forgiving, and be clear.”
+>
+> — Robert Axelrod
+
 ## 📱 Connect With Me
 
 <p align="center">
@@ -114,9 +120,7 @@ Good for testing how different strategies behave against each other over time.
   </a>
 </p>
 
----
-
 <p align="center">
-  <b>Built by Rex Hall</b><br />
-  <sub>Learn. Build. Improve. Fix AI slop.</sub>
+  <b>Built by Rex Hall with ❤️</b><br />
+  <sub>Learn. Build. Improve. Fix AI slop. Make something great!</sub>
 </p>
