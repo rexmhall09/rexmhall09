@@ -6,8 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&lines=Training+small+AI+systems+from+scratch+%F0%9F%A7%A0;Making+games+and+weird+developer+tools+%F0%9F%8E%AE;Breaking+things%2C+fixing+them%2C+then+calling+it+learning+%F0%9F%9A%80;Trying+to+turn+random+ideas+into+real+projects;Making+AI+slop%2C+and+fixing+it%21" alt="Typing Animation" />
 </p>
 
----
-
 ## ✨ About Me
 
 I'm a high school computer science student at **Lowell High School, Class of 2027**, based in **San Francisco, CA**.
@@ -27,14 +25,10 @@ Basically: I like learning by building, breaking stuff, fixing it, and then impr
 
 > Current motto: **learn, build, improve, fix AI slop, make something great.**
 
----
-
 ## 👀 Profile Views
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rexmhall09&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
-
----
 
 ## 🧠 What I'm Working On
 
@@ -43,8 +37,6 @@ Basically: I like learning by building, breaking stuff, fixing it, and then impr
 - Making games in **Godot**
 - Contributing more to open source
 - Getting better at writing reliable, readable code instead of just “it works on my machine” code
-
----
 
 ## 🛠️ Tech Stack
 
@@ -59,8 +51,6 @@ Basically: I like learning by building, breaking stuff, fixing it, and then impr
   <img src="https://img.shields.io/badge/PyTorch-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white" />
 </p>
 
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -71,8 +61,6 @@ Basically: I like learning by building, breaking stuff, fixing it, and then impr
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rexmhall09&theme=tokyonight&hide_border=true" />
 </p>
-
----
 
 ## 🚀 Featured Projects
 
@@ -106,8 +94,6 @@ Because apparently guessing five-letter words can become a programming problem.
 A custom Axelrod-style simulation environment with user-defined strategies and scoring.  
 Good for testing how different strategies behave against each other over time.
 
----
-
 ## 🎯 2026 / 2027 Goals
 
 - Contribute to more open source projects
@@ -115,8 +101,6 @@ Good for testing how different strategies behave against each other over time.
 - Build stronger AI and CS projects
 - Prepare for college-level CS, AI, and research opportunities
 - Get better at writing code that other people can actually understand
-
----
 
 ## 📱 Connect With Me
 
