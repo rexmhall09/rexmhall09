@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:7c3aed,100:ec4899&height=190&section=header&text=Rex%20Hall&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20builder%20%E2%80%A2%20game%20dev%20%E2%80%A2%20CS%20student%20%E2%80%A2%20professional%20AI-slop%20fixer&descSize=16&descAlignY=58" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:7c3aed,100:ec4899&height=190&section=header&text=Rex%20Hall&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&descAlignY=58" />
 </p>
 
 <p align="center">
