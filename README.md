@@ -6,10 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&lines=Training+small+AI+systems+from+scratch+%F0%9F%A7%A0;Making+games+and+weird+developer+tools+%F0%9F%8E%AE;Breaking+things%2C+fixing+them%2C+then+calling+it+learning+%F0%9F%9A%80;Trying+to+turn+random+ideas+into+real+projects;Making+AI+slop%2C+and+fixing+it%21" alt="Typing Animation" />
 </p>
 
-## 👀 Profile Views
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rexmhall09&color=blueviolet&style=flat-square" alt="Profile Views" />
-</p>
+---
 
 ## ✨ About Me
 
@@ -29,6 +26,13 @@ Right now, I’m especially interested in **AI systems, PyTorch, language models
 Basically: I like learning by building, breaking stuff, fixing it, and then improving it until it becomes actually useful.
 
 > Current motto: **learn, build, improve, fix AI slop, make something great.**
+
+---
+
+## 👀 Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rexmhall09&color=blueviolet&style=flat-square" alt="Profile Views" />
+</p>
 
 ---
 
