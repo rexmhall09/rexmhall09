@@ -68,7 +68,7 @@ I’m passionate about building projects that combine curiosity, useful software
 ### [TinyTalker](https://github.com/rexmhall09/TinyTalker)
 A small GPT model based on character-level tokenization. It trains on custom datasets and learns patterns efficiently at small scales.
 
-### Jishin
+### [Jishin](https://store.steampowered.com/app/2883380/Jishin/)
 A tower-defense game built in Godot, showcasing my game-development work and interest in interactive systems.
 
 ### [SimpleSkies](https://github.com/rexmhall09/SimpleSkies)
@@ -80,14 +80,6 @@ An algorithmic Wordle solver built in Python.
 ### [Axelrod's Simulation Environment](https://github.com/rexmhall09/Axelrods-Simulation-Environment)
 A custom Axelrod-style simulation environment with user-defined strategies and scoring.
 
-## 🏫 Leadership & Activities
-
-- Public Relations Officer for Lowell Boba Club
-- Public Relations Officer for Lowell Music For Chickens Club
-- Member of Lowell AI Club, exploring new models and AI policy
-- Historian for Lowell PTSA
-- Lowell High School Cheerleading Team member and All American recipient
-- Japanese Honor Society member and tutor
 
 ## 📊 GitHub Stats
 
