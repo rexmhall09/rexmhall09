@@ -1,96 +1,144 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:7c3aed,100:ec4899&height=190&section=header&text=Rex%20Hall&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20builder%20%E2%80%A2%20game%20dev%20%E2%80%A2%20CS%20student%20%E2%80%A2%20professional%20AI-slop%20fixer&descSize=16&descAlignY=58" />
+</p>
+
 <h1 align="center">Hi, I'm Rex Hall 👋</h1>
 
-<h3 align="center">AI Builder - Game Developer - High School CS Enthusiast</h3>
+<h3 align="center">I build AI projects, games, tools, and occasionally things that probably should not work but somehow do.</h3>
 
-<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&lines=Training+small+AI+systems+from+scratch+%F0%9F%A7%A0;Making+games+and+weird+developer+tools+%F0%9F%8E%AE;Breaking+things%2C+fixing+them%2C+then+calling+it+learning+%F0%9F%9A%80;Trying+to+turn+random+ideas+into+real+projects" alt="Typing Animation" />
+</p>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Building%20small%20AI%20systems%20from%20scratch%20%F0%9F%A7%A0;Creating%20games%20and%20developer%20tools%20%F0%9F%8E%AE;Learning%2C%20shipping%2C%20and%20improving%20every%20day%20%F0%9F%9A%80" alt="Typing Animation" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rexmhall09&color=blueviolet&style=flat-square" alt="Profile Views" />
+</p>
 
-</div>
-
-<div align="center">
-
-  <img src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" alt="Developer" width="300" />
-
-</div>
-
-<div align="center">
-
-  <img src="https://komarev.com/ghpvc/?username=rexmhall09&color=blueviolet&style=flat-square" alt="Profile Views" width="150" height="40" />
-
-</div>
+---
 
 ## ✨ About Me
 
-💻 **High school computer science enthusiast** at Lowell High School, Class of 2027  
-🧠 **AI tinkerer** focused on LLMs, PyTorch projects, and practical developer tools  
-🎮 **Game developer** building projects in Godot/GDScript and C#  
-📍 **Based in San Francisco, CA**
+I'm a high school computer science student at **Lowell High School, Class of 2027**, based in **San Francisco, CA**.
 
-I’m passionate about building projects that use my curiosity and problem solving. My work spans from small language models, developer APIs, and games to simulations web apps.
+I like building things that are just a little outside what I already know how to do. A lot of my projects are somewhere between:
 
-🚀 *Mission:  Learn, build, improve, fix AI slop, make something great!*
+- small AI models and LLM experiments
+- game development
+- developer tools
+- simulations
+- web apps
+- random ideas that slowly become real projects
 
-## 🌟 Core Values
+Right now, I’m especially interested in **AI systems, PyTorch, language models, reconstruction algorithms, game dev, and open source**.
 
-- Keep learning and experimenting
-- Communicate clearly and collaborate well
-- Balance technical ambition with reliability
-- Have fun making something great
+Basically: I like learning by building, breaking stuff, fixing it, and then improving it until it becomes actually useful.
 
-## 🎯 2026/2027 Goals
+> Current motto: **learn, build, improve, fix AI slop, make something great.**
 
-- Contribute to open source projects
-- Improve IPABrew with the team 
-- Prepare for college level computer science and AI research opportunities
+---
 
-## 💻 Tech Stack
+## 🧠 What I'm Working On
 
-<div align="center">
+- Improving **IPABrew**, a project for reconstructing proto-language words
+- Building and training small language models from scratch
+- Making games in **Godot**
+- Contributing more to open source
+- Getting better at writing reliable, readable code instead of just “it works on my machine” code
 
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,js,react,html,css,cs,git,github,godot,vscode,visualstudio" alt="Tech Stack" />
+</p>
 
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20%26%20LLMs-111827?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white" />
+</p>
 
-<div align="center">
+---
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
-![AI](https://img.shields.io/badge/AI%20%26%20LLMs-111827?style=for-the-badge&logo=openai&logoColor=white)
+## 📊 GitHub Stats
 
-</div>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rexmhall09&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rexmhall09&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rexmhall09&theme=tokyonight&hide_border=true" />
+</p>
+
+---
 
 ## 🚀 Featured Projects
 
 ### [TinyTalker](https://github.com/rexmhall09/TinyTalker)
-A small GPT model based on character-level tokenization. It trains on custom datasets and learns patterns efficiently at small scales.
+
+A small GPT-style language model based on character-level tokenization.  
+It trains on custom datasets and is one of my main experiments in understanding how LLMs actually work under the hood.
+
+### [IPABrew](https://github.com/LabGuy94/IPABrew)
+
+A project for reconstructing proto-language words using different algorithmic approaches.  
+Currently working on making the reconstruction methods smarter, cleaner, and less house-of-cards-y.
 
 ### [Jishin](https://store.steampowered.com/app/2883380/Jishin/)
-A tower-defense game built in Godot, showcasing my game-development work and interest in interactive systems.
+
+A tower-defense game built in Godot.  
+This is one of my bigger game-dev projects and shows my interest in interactive systems and gameplay design.
 
 ### [SimpleSkies](https://github.com/rexmhall09/SimpleSkies)
-An airport-code finder project.
+
+An airport-code finder project.  
+Simple idea, useful tool, good excuse to build something clean.
 
 ### [Wordla](https://github.com/rexmhall09/Wordla)
-An algorithmic Wordle solver built in Python.
+
+An algorithmic Wordle solver built in Python.  
+Because apparently guessing five-letter words can become a programming problem.
 
 ### [Axelrod's Simulation Environment](https://github.com/rexmhall09/Axelrods-Simulation-Environment)
-A custom Axelrod-style simulation environment with user-defined strategies and scoring.
+
+A custom Axelrod-style simulation environment with user-defined strategies and scoring.  
+Good for testing how different strategies behave against each other over time.
+
+---
+
+## 🎯 2026 / 2027 Goals
+
+- Contribute to more open source projects
+- Keep improving IPABrew with the team
+- Build stronger AI and CS projects
+- Prepare for college-level CS, AI, and research opportunities
+- Get better at writing code that other people can actually understand
+
+---
 
 ## 📱 Connect With Me
 
-<br />
+<p align="center">
+  <a href="https://portfolio-rexhall.replit.app/">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/rexmhall09">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/rexhall/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:rexmhall@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-<div align="center">
+---
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-rexhall.replit.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rexmhall09)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rexhall/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rexmhall@gmail.com)
-
-</div>
-
-<div align="center">
-  <b>Crafted with ❤️ by Rex Hall</b><br />
-  <sub>Learn, build, improve, fix AI slop.</sub>
-</div>
+<p align="center">
+  <b>Built by Rex Hall</b><br />
+  <sub>Learn. Build. Improve. Fix AI slop.</sub>
+</p>
