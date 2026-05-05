@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Rex Hall 👋</h1>
 
-<h3 align="center">AI Builder • Game Developer • High School CS Enthusiast</h3>
+<h3 align="center">AI Builder - Game Developer - High School CS Enthusiast</h3>
 
 <div align="center">
 
@@ -27,25 +27,22 @@
 🎮 **Game developer** building projects in Godot/GDScript and C#  
 📍 **Based in San Francisco, CA**
 
-I’m passionate about building projects that combine curiosity, useful software, and creative problem solving. My work spans small language models, developer APIs, games, simulations, and web apps.
+I’m passionate about building projects that use my curiosity and problem solving. My work spans from small language models, developer APIs, and games to simulations web apps.
 
-🚀 *Mission: Learn deeply, build consistently, and create tools that help people make better things.*
+🚀 *Mission:  Learn, build, improve, fix AI slop, make something great!*
 
 ## 🌟 Core Values
 
-- Build from first principles
 - Keep learning and experimenting
-- Ship useful projects, not just ideas
 - Communicate clearly and collaborate well
 - Balance technical ambition with reliability
+- Have fun making something great
 
 ## 🎯 2026/2027 Goals
 
-- Grow my open-source portfolio with more AI and game-development projects
-- Keep improving my PyTorch, React, and systems-design skills
-- Publish more polished demos through my portfolio and GitHub
-- Collaborate with student developers and local tech communities
-- Prepare for college-level computer science and AI research opportunities
+- Contribute to open source projects
+- Improve IPABrew with the team 
+- Prepare for college level computer science and AI research opportunities
 
 ## 💻 Tech Stack
 
@@ -80,35 +77,6 @@ An algorithmic Wordle solver built in Python.
 ### [Axelrod's Simulation Environment](https://github.com/rexmhall09/Axelrods-Simulation-Environment)
 A custom Axelrod-style simulation environment with user-defined strategies and scoring.
 
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Rex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rexmhall09&theme=dark&show_icons=true&hide_border=true)
-
-</div>
-
-## 📖 Top Languages
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rexmhall09&theme=dark&layout=compact&hide_border=true)
-
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center" style="width: 100%;">
-  <picture style="min-width: 90%; display: block;">
-    <source media="(max-width: 600px)"
-            srcset="https://github-profile-trophy.vercel.app/?username=rexmhall09&theme=onedark&no-frame=true&row=2&column=4" />
-    <img alt="GitHub Trophies"
-         src="https://github-profile-trophy.vercel.app/?username=rexmhall09&theme=onedark&no-frame=true&row=1&column=8"
-         style="min-width: 95%; max-width: 100%; height: auto;" />
-  </picture>
-</div>
-
 ## 📱 Connect With Me
 
 <br />
@@ -122,22 +90,7 @@ A custom Axelrod-style simulation environment with user-defined strategies and s
 
 </div>
 
-## ✍️ Dev Quote
-
-<div align="center">
-  <picture>
-    <source
-      media="(max-width: 600px)"
-      srcset="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark"
-    />
-    <img
-      alt="Dev Quote"
-      src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"
-    />
-  </picture>
-</div>
-
 <div align="center">
   <b>Crafted with ❤️ by Rex Hall</b><br />
-  <sub>Learning fast, building boldly, and always improving.</sub>
+  <sub>Learn, build, improve, fix AI slop.</sub>
 </div>
