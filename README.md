@@ -2,12 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:7c3aed,100:ec4899&height=190&section=header&text=Rex%20Hall&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20builder%20%E2%80%A2%20game%20dev%20%E2%80%A2%20CS%20student%20%E2%80%A2%20professional%20AI-slop%20fixer&descSize=16&descAlignY=58" />
 </p>
 
-<h1 align="center">Hi, I'm Rex Hall 👋</h1>
-
-<h3 align="center">I build AI projects, games, tools, and occasionally things that probably should not work but somehow do.</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&lines=Training+small+AI+systems+from+scratch+%F0%9F%A7%A0;Making+games+and+weird+developer+tools+%F0%9F%8E%AE;Breaking+things%2C+fixing+them%2C+then+calling+it+learning+%F0%9F%9A%80;Trying+to+turn+random+ideas+into+real+projects" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&lines=Training+small+AI+systems+from+scratch+%F0%9F%A7%A0;Making+games+and+weird+developer+tools+%F0%9F%8E%AE;Breaking+things%2C+fixing+them%2C+then+calling+it+learning+%F0%9F%9A%80;Trying+to+turn+random+ideas+into+real+projects;Making+AI+slop%2C+and+fixing+it%21" alt="Typing Animation" />
 </p>
 
 <p align="center">
