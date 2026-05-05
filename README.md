@@ -54,11 +54,6 @@ Basically: I like learning by building, breaking stuff, fixing it, and then impr
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rexmhall09&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rexmhall09&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rexmhall09&theme=tokyonight&hide_border=true" />
 </p>
 
