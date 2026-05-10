@@ -41,14 +41,7 @@ Basically: I like learning by building, breaking stuff, fixing it, and then impr
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,js,react,html,css,cs,git,github,godot,vscode,visualstudio" alt="Tech Stack" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%20%26%20LLMs-111827?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,js,html,css,cs,git,github,godot,ruby" alt="Tech Stack" />
 </p>
 
 ## Featured Projects
