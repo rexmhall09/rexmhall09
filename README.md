@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&lines=Training+small+AI+systems+from+scratch+%F0%9F%A7%A0;Making+games+and+weird+developer+tools+%F0%9F%8E%AE;Breaking+things%2C+fixing+them%2C+then+calling+it+learning+%F0%9F%9A%80;Trying+to+turn+random+ideas+into+real+projects;Making+AI+slop%2C+and+fixing+it%21" alt="Typing Animation" />
 </p>
 
-## ✨ About Me
+## About Me
 
 I'm a high school computer science student at **Lowell High School, Class of 2027**, based in **San Francisco, CA**.
 
@@ -25,12 +25,12 @@ Basically: I like learning by building, breaking stuff, fixing it, and then impr
 
 > Current motto: **Learn. Build. Improve. Fix AI slop. Make something great!**
 
-## 👀 Profile Views
+## Profile Views
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rexmhall09&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
 
-## 🧠 What I'm Working On
+## What I'm Working On
 
 - Improving **IPABrew**, a project for reconstructing proto-language words
 - Building and training small language models from scratch
@@ -38,7 +38,7 @@ Basically: I like learning by building, breaking stuff, fixing it, and then impr
 - Contributing more to open source
 - Getting better at writing reliable, readable code instead of just “it works on my machine” code
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,js,react,html,css,cs,git,github,godot,vscode,visualstudio" alt="Tech Stack" />
@@ -51,13 +51,7 @@ Basically: I like learning by building, breaking stuff, fixing it, and then impr
   <img src="https://img.shields.io/badge/PyTorch-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white" />
 </p>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rexmhall09&theme=tokyonight&hide_border=true" />
-</p>
-
-## 🚀 Featured Projects
+## Featured Projects
 
 ### [TinyTalker](https://github.com/rexmhall09/TinyTalker)
 
@@ -89,7 +83,7 @@ Because apparently guessing five-letter words can become a programming problem.
 A custom Axelrod-style simulation environment with user-defined strategies and scoring.  
 Good for testing how different strategies behave against each other over time.
 
-## 🎯 2026 / 2027 Goals
+## 2026 / 2027 Goals
 
 - Contribute to more open source projects
 - Keep improving IPABrew with the team
@@ -97,13 +91,13 @@ Good for testing how different strategies behave against each other over time.
 - Prepare for college-level CS, AI, and research opportunities
 - Get better at writing code that other people can actually understand
 
-## 📜 Favorite Quote
+## Favorite Quote
 
 > “Be nice, be provocable, be forgiving, and be clear.”
 >
 > — Robert Axelrod
 
-## 📱 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://portfolio-rexhall.replit.app/">
