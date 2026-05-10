@@ -21,7 +21,7 @@ I'm a high school computer science student at **Lowell High School, Class of 202
 - Playing with Agents
 - Contributing more to open source (like Homebrew)
 
-## Tech Stack
+## My Skills :D
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,js,html,css,cs,git,github,godot,ruby" alt="Tech Stack" />
