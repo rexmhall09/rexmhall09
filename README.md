@@ -56,7 +56,7 @@ An airport-code finder project.
 
 ### [Wordla](https://github.com/rexmhall09/Wordla)
 
-An algorithmic Wordle solver built in Python.  
+An algorithmic Wordle solver built in Python.   
 Terminal or Web UI!
 
 ## 2026 / 2027 Goals
