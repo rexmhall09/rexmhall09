@@ -37,7 +37,12 @@ It trains on custom datasets and is one of my main experiments in understanding 
 ### [IPABrew](https://github.com/LabGuy94/IPABrew)
 
 A project for reconstructing proto-language words using different algorithmic approaches.  
-Currently working on making the reconstruction methods smarter, cleaner, and less house-of-cards-y.
+Made at a hackathon :D
+
+### [Axelrod's Simulation Environment](https://github.com/rexmhall09/Axelrods-Simulation-Environment)
+
+A custom Axelrod-style simulation environment with user-defined strategies and scoring.  
+Good for testing how different strategies behave against each other over time. Maybe I will train an AI to play it? 
 
 ### [Jishin](https://store.steampowered.com/app/2883380/Jishin/)
 
@@ -47,17 +52,12 @@ This is one of my bigger game-dev projects and shows my interest in interactive 
 ### [SimpleSkies](https://github.com/rexmhall09/SimpleSkies)
 
 An airport-code finder project.  
-Simple idea, useful tool, good excuse to build something clean.
+(lowkey a database search thing...)
 
 ### [Wordla](https://github.com/rexmhall09/Wordla)
 
-An algorithmic Wordle solver built in Python.  
-Because apparently guessing five-letter words can become a programming problem.
-
-### [Axelrod's Simulation Environment](https://github.com/rexmhall09/Axelrods-Simulation-Environment)
-
-A custom Axelrod-style simulation environment with user-defined strategies and scoring.  
-Good for testing how different strategies behave against each other over time.
+An algorithmic Wordle solver built in Python.
+Terminal or Web UI!
 
 ## 2026 / 2027 Goals
 
