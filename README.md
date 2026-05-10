@@ -8,22 +8,7 @@
 
 ## About Me
 
-I'm a high school computer science student at **Lowell High School, Class of 2027**, based in **San Francisco, CA**.
-
-I like building things that are just a little outside what I already know how to do. A lot of my projects are somewhere between:
-
-- small AI models and LLM experiments
-- game development
-- developer tools
-- simulations
-- web apps
-- random ideas that slowly become real projects
-
-Right now, I’m especially interested in **AI systems, PyTorch, language models, reconstruction algorithms, game dev, and open source**.
-
-Basically: I like learning by building, breaking stuff, fixing it, and then improving it until it becomes actually useful.
-
-> Current motto: **Learn. Build. Improve. Fix AI slop. Make something great!**
+I'm a high school computer science student at **Lowell High School, Class of 2027**, based in **San Francisco, CA**. I enjoy playing ant tinkering with new technologies and building random stuff.
 
 ## Profile Views
 <p align="center">
@@ -33,10 +18,8 @@ Basically: I like learning by building, breaking stuff, fixing it, and then impr
 ## What I'm Working On
 
 - Improving **IPABrew**, a project for reconstructing proto-language words
-- Building and training small language models from scratch
-- Making games in **Godot**
-- Contributing more to open source
-- Getting better at writing reliable, readable code instead of just “it works on my machine” code
+- Playing with Agents
+- Contributing more to open source (like Homebrew)
 
 ## Tech Stack
 
