@@ -8,7 +8,7 @@
 
 ## About Me
 
-I'm a high school computer science student at **Lowell High School, Class of 2027**, based in **San Francisco, CA**. I enjoy playing ant tinkering with new technologies and building random stuff.
+I'm a computer science enthusiast attending **Lowell High School, Class of 2027**, based in **San Francisco, CA**. I enjoy playing ant tinkering with new technologies and building random stuff.
 
 ## Profile Views
 <p align="center">
