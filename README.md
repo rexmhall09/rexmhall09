@@ -76,7 +76,7 @@ Terminal or Web UI!
 ## Connect With Me
 
 <p align="center">
-  <a href="[https://portfolio-rexhall.replit.app/](https://rexmhall09.github.io/)">
+  <a href="https://portfolio-rexhall.replit.app/](https://rexmhall09.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/rexhall/">
