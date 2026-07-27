@@ -29,25 +29,20 @@ I'm a computer science enthusiast attending **Lowell High School, Class of 2027*
 
 ## Featured Projects
 
-### [TinyTalker](https://github.com/rexmhall09/TinyTalker)
-
-A small GPT-style language model based on character-level tokenization.  
-It trains on custom datasets and is one of my main experiments in understanding how LLMs actually work under the hood.
-
 ### [IPABrew](https://github.com/LabGuy94/IPABrew)
 
 A project for reconstructing proto-language words using different algorithmic approaches.  
 Made at a hackathon :D
 
+### [TinyTalker](https://github.com/rexmhall09/TinyTalker)
+
+A small GPT-style language model based on character-level tokenization.  
+It trains on custom datasets and is one of my main experiments in understanding how LLMs actually work under the hood.
+
 ### [Axelrod's Simulation Environment](https://github.com/rexmhall09/Axelrods-Simulation-Environment)
 
 A custom Axelrod-style simulation environment with user-defined strategies and scoring.  
 Good for testing how different strategies behave against each other over time. Maybe I will train an AI to play it? 
-
-### [Jishin](https://store.steampowered.com/app/2883380/Jishin/)
-
-A tower-defense game built in Godot.  
-This is one of my bigger game-dev projects and shows my interest in interactive systems and gameplay design.
 
 ### [SimpleSkies](https://github.com/rexmhall09/SimpleSkies)
 
@@ -58,6 +53,12 @@ An airport-code finder project.
 
 An algorithmic Wordle solver built in Python.   
 Terminal or Web UI!
+
+### Also check out my game (sadly closed source) on Steam
+### [Jishin](https://store.steampowered.com/app/2883380/Jishin/)
+
+A tower-defense game built in Godot.  
+This is one of my bigger game-dev projects and shows my interest in interactive systems and gameplay design.
 
 ## 2026 / 2027 Goals
 
