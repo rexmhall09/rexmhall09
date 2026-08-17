@@ -78,7 +78,7 @@ This is one of my bigger game-dev projects and shows my interest in interactive 
 
 <p align="center">
   <a href="https://rexmhall09.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Website-111827?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/rexhall/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
