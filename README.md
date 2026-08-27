@@ -2,14 +2,7 @@
 
 I'm a computer science enthusiast attending **Lowell High School, Class of 2027**, based in **San Francisco, CA**. I enjoy playing and tinkering with tech and building random stuff.
 
-## Profile Views
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rexmhall09&color=blueviolet&style=flat-square" alt="Profile Views" />
-</p>
-
-
 ## Featured Projects
-
 
 ### [TUFF](https://github.com/rexmhall09/tuff)
 
@@ -42,6 +35,12 @@ This is one of my bigger game-dev projects and shows my interest in interactive 
 > “Be nice, be provocable, be forgiving, and be clear.”
 >
 > — Robert Axelrod
+
+
+## Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rexmhall09&color=blueviolet&style=flat-square" alt="Profile Views" />
+</p>
 
 ## Connect With Me
 
