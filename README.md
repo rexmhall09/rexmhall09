@@ -1,6 +1,6 @@
 <p align="center">
 
-# Rex Hall
+# <h1 style="font-size: 48px;">Rex Hall</h1>
 
 I'm a computer science enthusiast attending **Lowell High School, Class of 2027**, based in **San Francisco, CA**. I enjoy playing and tinkering with tech and building random stuff.
 
