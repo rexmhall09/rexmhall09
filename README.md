@@ -13,11 +13,6 @@ Turbo Ultimate Field Fare is a MacOS app that lets users run models like Qwen, G
 A project for reconstructing proto-language words using different algorithmic approaches.  
 Made at a hackathon :D
 
-### [Axelrod's Simulation Environment](https://github.com/rexmhall09/Axelrods-Simulation-Environment)
-
-A custom Axelrod-style simulation environment with user-defined strategies and scoring.  
-Good for testing how different strategies behave against each other over time. Maybe I will train an AI to play it? 
-
 ### Also check out my game (sadly closed source) on Steam
 ### [Jishin](https://store.steampowered.com/app/2883380/Jishin/)
 
@@ -30,13 +25,6 @@ This is one of my bigger game-dev projects and shows my interest in interactive 
 - Build stronger AI and CS projects
 - Prepare for college-level CS, AI, and research opportunities
 
-## Favorite Quote
-
-> “Be nice, be provocable, be forgiving, and be clear.”
->
-> — Robert Axelrod
-
-
 ## Profile Views
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rexmhall09&color=blueviolet&style=flat-square" alt="Profile Views" />
@@ -46,7 +34,7 @@ This is one of my bigger game-dev projects and shows my interest in interactive 
 
 <p align="center">
   <a href="https://rexmhall09.github.io/">
-    <img src="https://img.shields.io/badge/Website-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Website-111827" />
   </a>
   <a href="https://www.linkedin.com/in/rexhall/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
